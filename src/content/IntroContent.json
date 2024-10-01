@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
+  "title": "Humm! Fruit Mix",
   "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
   "button": [
     {
-      "title": "Explore"
+      "title": "Quem Somos"
     },
     {
-      "title": "Learn more",
+      "title": "Saiba Mais",
       "color": "#fff"
     }
   ]
