@@ -41,7 +41,7 @@ const Home = () => {
         direction="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="waving.svg"
+        icon="equipe-humm.webp"
         id="product"
       />
       <Contact
