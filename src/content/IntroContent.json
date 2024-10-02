@@ -1,13 +1,15 @@
 {
   "title": "Humm! Fruit Mix",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "text": "Quer praticidade para se manter com energia ao longo de um dia a dia corrido? Conheça nosso produto! Uma explosão de sabores feito especialmente para você!",
   "button": [
     {
-      "title": "Quem Somos"
+      "title": "Quem Somos",
+      "rolarPara": "product"
     },
     {
       "title": "Saiba Mais",
-      "color": "#fff"
+      "color": "#fff",
+      "rolarPara": "about"
     }
   ]
 }

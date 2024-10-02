@@ -35,8 +35,9 @@ export const ServiceWrapper = styled("div")`
 `;
 
 export const MinTitle = styled("h6")`
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1rem;
+  margin-top: 8px;
   padding: 0.5rem 0;
   text-transform: uppercase;
   color: #000;
@@ -44,7 +45,7 @@ export const MinTitle = styled("h6")`
 `;
 
 export const MinPara = styled("p")`
-  font-size: 13px;
+  font-size: 15px;
 `;
 
 export const ButtonWrapper = styled("div")`

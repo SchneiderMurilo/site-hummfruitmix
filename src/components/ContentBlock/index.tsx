@@ -57,6 +57,7 @@ const ContentBlock = ({
                         item: {
                           color?: string;
                           title: string;
+                          rolarPara: string;
                         },
                         id: number
                       ) => {
@@ -64,7 +65,7 @@ const ContentBlock = ({
                           <Button
                             key={id}
                             color={item.color}
-                            onClick={() => scrollTo("about")}
+                            onClick={() => scrollTo(item.rolarPara)}
                           >
                             {t(item.title)}
                           </Button>
@@ -89,8 +90,8 @@ const ContentBlock = ({
                             <Col key={id} span={11}>
                               <SvgIcon
                                 src={item.icon}
-                                width="60px"
-                                height="60px"
+                                width="58px"
+                                height="58px"
                               />
                               <MinTitle>{t(item.title)}</MinTitle>
                               <MinPara>{t(item.content)}</MinPara>

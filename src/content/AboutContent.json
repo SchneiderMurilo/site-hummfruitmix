@@ -1,16 +1,16 @@
 {
-  "title": "Leve, Delicioso e Saudável!",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Prático, Saudável e Delicioso!",
+  "text": "Feito de forma natural, com produtos orgânicos e totalmente artesanal, nosso mix conta com uma escolha minuciosa de frutas e cascas secas, além de algumas oleaginosas para compor ainda mais o sabor!",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Rico em Fibras e Nutrientes!",
+      "content": "Para manter um corpo saúdavel e com energia.",
+      "icon": "muscle.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Livre de Conservantes e Corantes!",
+      "content": "Uma alternativa pura e benéfica para nós.",
+      "icon": "sem-conservantes.png"
     }
   ]
 }
