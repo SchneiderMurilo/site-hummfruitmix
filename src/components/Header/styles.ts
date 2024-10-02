@@ -83,13 +83,13 @@ export const Outline = styled(MenuOutlined)`
 
 export const Span = styled("span")`
   cursor: pointer;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.2s ease-in-out;
 
   &:hover,
   &:active,
   &:focus {
-    color: rgb(255, 130, 92);
+    color: #c700eb;
     text-underline-position: under;
-    text-decoration: rgb(255, 130, 92) wavy underline;
+    text-decoration: #c700eb wavy underline;
   }
 `;
